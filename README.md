@@ -13,12 +13,15 @@ LEARNPLAYWRIGHTBATCH2x/
 │   └── 04_HotCode.js
 ├── chapter_02_JavaScript/
 │   └── 05_JS_Basics.js
-└── chapter_03_Identifier_Literals/
-    ├── 06_Identifier_Rules.js
-    ├── 07_Identifier_Part2.js
-    ├── 08_Comments.js
-    ├── js_identifier_rules.js
-    └── VS_Code_keyboard_shortcut_windows.md
+├── chapter_03_Identifier_Literals/
+│   ├── 06_Identifier_Rules.js
+│   ├── 07_Identifier_Part2.js
+│   ├── 08_Comments.js
+│   ├── js_identifier_rules.js
+│   └── VS_Code_keyboard_shortcut_windows.md
+└── scripts/
+    ├── generate-readme-toc.js
+    └── pre-commit-hook.sh
 ```
 
 ## 🚀 Getting Started
