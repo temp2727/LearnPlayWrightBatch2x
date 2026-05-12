@@ -19,6 +19,16 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 08_Comments.js
 │   ├── js_identifier_rules.js
 │   └── VS_Code_keyboard_shortcut_windows.md
+├── chapter_04_Javascript_Concepts/
+│   ├── 09_var_let_constants.js
+│   ├── 10_functions.js
+│   ├── 11_var_concept.js
+│   ├── 12_let_concept.js
+│   ├── 13_const_concept.js
+│   ├── 14_var_functionscope.js
+│   ├── 15_let_blockscope.js
+│   ├── 16_Hoisting.js
+│   └── 17_hoisting_fn.js
 └── scripts/
     ├── generate-readme-toc.js
     └── pre-commit-hook.sh
