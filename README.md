@@ -28,7 +28,20 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 14_var_functionscope.js
 │   ├── 15_let_blockscope.js
 │   ├── 16_Hoisting.js
-│   └── 17_hoisting_fn.js
+│   ├── 17_hoisting_fn.js
+│   ├── 18_let_hoisting.js
+│   ├── 19_let_hoisting_block.js
+│   ├── 20_let_const.js
+│   └── 21_Junior_QA.js
+├── chapter_05_Literals/
+│   ├── 22_Literal.js
+│   ├── 23_null_undefined.js
+│   ├── 24_null.js
+│   ├── 25_Literal_All.js
+│   ├── 26_Literal_Number_All.js
+│   ├── 27_String.js
+│   ├── 28_Template_Literal.js
+│   └── 29_BackTick_Single_double.js
 └── scripts/
     ├── generate-readme-toc.js
     └── pre-commit-hook.sh
