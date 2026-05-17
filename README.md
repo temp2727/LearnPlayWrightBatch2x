@@ -42,6 +42,22 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 27_String.js
 │   ├── 28_Template_Literal.js
 │   └── 29_BackTick_Single_double.js
+├── chapter_06_Operators/
+│   ├── 30_Operators.js
+│   ├── 31_Arithmetic_Operators.js
+│   ├── 32_Modulus_Operator.js
+│   ├── 33_Exponential_Operator.js
+│   ├── 34_Compound_Assignment_Operator.js
+│   ├── 35_Comparison_Operators.js
+│   ├── 36_Comparison_Strict_Loose.js
+│   ├── 37_IQ_loose_strict.js
+│   ├── 38_Confusing_Comparisons.js
+│   ├── 39_Logical_Operators
+│   ├── 40_String_Concat.js
+│   ├── 41_Ternary_Operator.js
+│   ├── 42_Type_Operator.js
+│   ├── 43_Increment_Decrement_Operator.js
+│   └── 44_Null_Operator.js
 └── scripts/
     ├── generate-readme-toc.js
     └── pre-commit-hook.sh
@@ -72,6 +88,9 @@ Or using VS Code:
 | **Chapter 01** | Basics | Environment setup verification and basic JS execution |
 | **Chapter 02** | JavaScript Basics | Core JavaScript concepts |
 | **Chapter 03** | Identifiers & Literals | Naming rules, comments, and editor shortcuts |
+| **Chapter 04** | Javascript Concepts | Variables, functions, scope, and hoisting |
+| **Chapter 05** | Literals | Data types, strings, template literals, null and undefined |
+| **Chapter 06** | Operators | Arithmetic, comparison, logical, ternary, and type operators |
 
 ## 🛠️ What's Next
 
