@@ -6,6 +6,8 @@ A beginner-friendly learning repository covering JavaScript fundamentals and Pla
 
 ```
 LEARNPLAYWRIGHTBATCH2x/
+├── .vscode/
+│   └── launch.json
 ├── chapter_01_Basics/
 │   ├── 01_Basics.js
 │   ├── 02_JS.js
@@ -57,7 +59,37 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 41_Ternary_Operator.js
 │   ├── 42_Type_Operator.js
 │   ├── 43_Increment_Decrement_Operator.js
-│   └── 44_Null_Operator.js
+│   ├── 44_Null_Operator.js
+│   ├── 45_Post_Increment.js
+│   ├── 46_IQ_Increment_D.js
+│   └── 47_Advance_Increment_Decrement.js
+├── chapter_07_If_Else_Stmt/
+│   ├── 48_If_Else.js
+│   ├── 49_If_ElseIf_Else.js
+│   ├── 50_RealExample_If_Else.js
+│   ├── 51_API_If_Else.js
+│   ├── 52_IQ_If_Else.js
+│   ├── 53_RealExample_2_If_Else.js
+│   ├── 54_IQ_2_If_Else.js
+│   ├── 55_If.js
+│   ├── 55_Only_If.js
+│   ├── 56_IQ_EvenOdd.js
+│   ├── 57_Grade_Calc.js
+│   └── 58_Leap_Year.js
+├── chapter_08_Switch_Stmt/
+│   ├── 59_Switch.js
+│   ├── 60_No_break.js
+│   ├── 61_Default.js
+│   ├── 62_Real_Time_Example.js
+│   ├── 63_Switch_group.js
+│   ├── 64_IQ1.js
+│   ├── 65_IQ2.js
+│   ├── 66_IQ3.js
+│   └── 67_IQ4.js
+├── chapter_09_userInput/
+│   ├── 68_User_Input.js
+│   ├── 69_Node_ReadLine.js
+│   └── 70_prompt_sync.js
 └── scripts/
     ├── generate-readme-toc.js
     └── pre-commit-hook.sh
@@ -86,11 +118,15 @@ Or using VS Code:
 | Chapter | Topic | Description |
 |---------|-------|-------------|
 | **Chapter 01** | Basics | Environment setup verification and basic JS execution |
-| **Chapter 02** | JavaScript Basics | Core JavaScript concepts |
-| **Chapter 03** | Identifiers & Literals | Naming rules, comments, and editor shortcuts |
+| **Chapter 02** | JavaScript | Core JavaScript concepts |
+| **Chapter 03** | Identifier Literals | Naming rules, comments, and editor shortcuts |
 | **Chapter 04** | Javascript Concepts | Variables, functions, scope, and hoisting |
 | **Chapter 05** | Literals | Data types, strings, template literals, null and undefined |
 | **Chapter 06** | Operators | Arithmetic, comparison, logical, ternary, and type operators |
+| **Chapter 07** | If Else Stmt | Conditional statements with if, else if, and else |
+| **Chapter 08** | Switch Stmt | Switch statements, case grouping, and default handling |
+| **Chapter 09** | userInput | User input handling with readline and prompt-sync |
+
 
 ## 🛠️ What's Next
 
