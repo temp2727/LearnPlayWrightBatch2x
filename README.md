@@ -85,14 +85,30 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 64_IQ1.js
 │   ├── 65_IQ2.js
 │   ├── 66_IQ3.js
-│   └── 67_IQ4.js
+│   ├── 67_IQ4.js
+│   └── Tasks_20_May.js
 ├── chapter_09_userInput/
 │   ├── 68_User_Input.js
 │   ├── 69_Node_ReadLine.js
 │   └── 70_prompt_sync.js
-└── scripts/
-    ├── generate-readme-toc.js
-    └── pre-commit-hook.sh
+├── chapter_10_Loops/
+│   ├── 71_For_Loop.js
+│   ├── 72_For_Loop.js
+│   ├── 73_For_Loop2.js
+│   ├── 74_IQ.js
+│   ├── 75_For_Of_In_Each.js
+│   ├── 76_While.js
+│   ├── 77_Do_While.js
+│   ├── 78_Do_While.js
+│   ├── 79_IQ.js
+│   ├── 80_IQ.js
+│   ├── 81_IQ.js
+│   └── 82_IQ.js
+├── scripts/
+│   ├── generate-readme-toc.js
+│   └── pre-commit-hook.sh
+├── package-lock.json
+└── package.json
 ```
 
 ## 🚀 Getting Started
@@ -126,6 +142,7 @@ Or using VS Code:
 | **Chapter 07** | If Else Stmt | Conditional statements with if, else if, and else |
 | **Chapter 08** | Switch Stmt | Switch statements, case grouping, and default handling |
 | **Chapter 09** | userInput | User input handling with readline and prompt-sync |
+| **Chapter 10** | Loops |  |
 
 
 ## 🛠️ What's Next
