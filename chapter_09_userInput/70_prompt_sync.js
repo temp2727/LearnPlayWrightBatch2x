@@ -1,3 +1,4 @@
+//Never used in automation, we use playright input methods instead.
 const prompt = require("prompt-sync")();
 
 let num = Number(prompt("Enter a number: "));

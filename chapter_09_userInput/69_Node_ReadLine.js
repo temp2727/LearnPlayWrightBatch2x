@@ -1,3 +1,4 @@
+//Never used in automation, we use playright input methods instead.
 const readline = require("readline");
 
 const rl = readline.createInterface({

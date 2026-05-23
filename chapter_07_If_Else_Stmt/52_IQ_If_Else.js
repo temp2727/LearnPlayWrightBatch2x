@@ -12,7 +12,7 @@ if (0) console.log("Won't print");
 // ANY NUMBER = 1,2,,3,34,32,2,- TRUTH
 // 0= FALSE
 
-let name = 0;
+let name = undefined;
 if (name) {
     console.log("Hi");
 } else {
