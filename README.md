@@ -109,8 +109,25 @@ LEARNPLAYWRIGHTBATCH2x/
 ├── scripts/
 │   ├── generate-readme-toc.js
 │   └── pre-commit-hook.sh
-├── Test_JS_Coding_May_24/
-│   └── Challenge1.js
+├── Test_JavaScript_15Coding_Questions/
+│   ├── Challenge_01.js
+│   ├── Challenge_02.js
+│   ├── Challenge_03.js
+│   ├── Challenge_04.js
+│   ├── Challenge_05.js
+│   ├── Challenge_06.js
+│   ├── Challenge_07.js
+│   ├── Challenge_08.js
+│   ├── Challenge_09.js
+│   ├── Challenge_10.js
+│   ├── Challenge_11.js
+│   ├── Challenge_12.js
+│   ├── Challenge_13.js
+│   ├── Challenge_14.js
+│   └── Challenge_15.js
+├── Test_JS_Coding_May_24_60MCQ_10CodingQ/
+│   ├── Challenge1.js
+│   └── Challenge2.js
 ├── package-lock.json
 └── package.json
 ```
