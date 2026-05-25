@@ -104,8 +104,17 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 80_IQ.js
 │   ├── 81_IQ.js
 │   ├── 82_IQ.js
-│   ├── Task_22_May.js
-│   └── Test_Coding.js
+│   └── Task_22_May.js
+├── chapter_11_Arrays/
+│   ├── 83_Arrays.js
+│   ├── 84_CreateArray.js
+│   ├── 85_Access_Arrays.js
+│   ├── 86_Arrays_Adding_Remove.js
+│   ├── 87_Arrays_Adding_Remove_2.js
+│   ├── 88_Array_Real_Example.js
+│   ├── 89_Array_Search.js
+│   ├── 90_Array_Iteration.js
+│   └── 91_Transform_Array.js
 ├── scripts/
 │   ├── generate-readme-toc.js
 │   └── pre-commit-hook.sh
@@ -164,6 +173,7 @@ Or using VS Code:
 | **Chapter 08** | Switch Stmt | Switch statements, case grouping, and default handling |
 | **Chapter 09** | userInput | User input handling with readline and prompt-sync |
 | **Chapter 10** | Loops |  |
+| **Chapter 11** | Arrays |  |
 
 
 ## 🛠️ What's Next
