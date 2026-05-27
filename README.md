@@ -114,7 +114,20 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 88_Array_Real_Example.js
 │   ├── 89_Array_Search.js
 │   ├── 90_Array_Iteration.js
-│   └── 91_Transform_Array.js
+│   ├── 91_Transform_Array.js
+│   ├── 92_Arrays.js
+│   ├── 93_Array_Slicing.js
+│   ├── 94_Concat_arrays.js
+│   └── 95_Array_Checks.js
+├── chapter_12_functions/
+│   ├── 096_Functions.js
+│   ├── 097_Type1_Fn_noParam_noReturn.js
+│   ├── 098_Type2_Fn_Param_noReturn.js
+│   ├── 099_Type3_Fn_noParam_Return.js
+│   ├── 100_Type4_Fn_Param_Return
+│   ├── 101_Template_Literal.js
+│   ├── 102_Function_Storing_FnExpression.js
+│   └── 103_Arrow_function.js
 ├── scripts/
 │   ├── generate-readme-toc.js
 │   └── pre-commit-hook.sh
@@ -174,6 +187,7 @@ Or using VS Code:
 | **Chapter 09** | userInput | User input handling with readline and prompt-sync |
 | **Chapter 10** | Loops |  |
 | **Chapter 11** | Arrays |  |
+| **Chapter 12** | functions |  |
 
 
 ## 🛠️ What's Next
