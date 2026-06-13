@@ -6,6 +6,9 @@ A beginner-friendly learning repository covering JavaScript fundamentals and Pla
 
 ```
 LEARNPLAYWRIGHTBATCH2x/
+├── .commandcode/
+│   └── taste/
+│       └── taste.md
 ├── .vscode/
 │   └── launch.json
 ├── chapter_01_Basics/
@@ -127,7 +130,45 @@ LEARNPLAYWRIGHTBATCH2x/
 │   ├── 100_Type4_Fn_Param_Return
 │   ├── 101_Template_Literal.js
 │   ├── 102_Function_Storing_FnExpression.js
-│   └── 103_Arrow_function.js
+│   ├── 103_Arrow_function.js
+│   ├── 104_Arrow_Func_RealExample.js
+│   ├── 105_IIFE.js
+│   ├── 106_Default_Param_Fn.js
+│   ├── 107_IQ.js
+│   ├── 108_Rest_Param_Fn.js
+│   ├── 109_IQ.js
+│   ├── 110_Spread_IQ.js
+│   ├── 111_Scope_Fn.js
+│   ├── 112_IQ_Nested_Fn.js
+│   ├── 113_Closure.js
+│   ├── 114_Closure.js
+│   ├── 115_Closure_realExample.js
+│   ├── 116_HigherOrder_Fn.js
+│   └── 117_Pure_Fn.js
+├── chapter_13_Strings/
+│   ├── 118_Strings.js
+│   ├── 119_String_Properties.js
+│   ├── 120_Search_Check_String.js
+│   ├── 121_SubString.js
+│   ├── 122_Transform_String.js
+│   ├── 123_StringConvertor.js
+│   └── javascript_stringCheatSheet.md
+├── chapter_14_Objects/
+│   ├── 124_Objects.js
+│   ├── 125_Objects2.js
+│   ├── 126_Objects_Creation.js
+│   ├── 127_Objects_RealTime.js
+│   ├── 128_Primitive_vs_Reference.js
+│   ├── 129_Objects_Json.js
+│   ├── 130_IQ.js
+│   ├── 131_Objects_Functions.js
+│   ├── 132_Object_Deconstruct.js
+│   ├── 133_Spread.js
+│   ├── 134_Objects_Get_Set_Methods.js
+│   ├── 135_IQ.js
+│   ├── 136_Objects_Real.js
+│   └── 137_Let_vs_const_Objects.js
+├── chapter_15_2D_Array/
 ├── scripts/
 │   ├── generate-readme-toc.js
 │   └── pre-commit-hook.sh
@@ -188,6 +229,9 @@ Or using VS Code:
 | **Chapter 10** | Loops |  |
 | **Chapter 11** | Arrays |  |
 | **Chapter 12** | functions |  |
+| **Chapter 13** | Strings |  |
+| **Chapter 14** | Objects |  |
+| **Chapter 15** | 2D Array |  |
 
 
 ## 🛠️ What's Next
